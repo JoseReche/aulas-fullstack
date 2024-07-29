@@ -1,0 +1,39 @@
+git status - exibe com detalhes o status atual do repositório
+
+git clone - Clona o repositório localmente
+
+git add . - adiciona as alterações para serem comitadas
+
+git add seu_arquivo.md  - sobe para stage apenas o arquivo selecionado
+
+git commit -m "commit" - Cria o commit
+
+git config --global user.name "seu_nick" - configura o nome do usuario
+
+git config --global user.email "seu.email@hotmail.com" - configura o email do usuario
+
+git config --list - lista as configurações atuais do git 
+
+git rm seu_arquivo.md - remove um arquivo do seu repositório,
+
+git push -u origin seu_repositorio - sobe as alterações para o repositório remoto apenas na primeira vez
+
+git push - sobe as alterações que foram feitas após o comando anterior
+
+git pull - Atualiza o repositório local com o repositório virtual
+
+git branch sua_breanch - Cria uma breanch nova com base na atual
+
+git checkout sua_breanch - troca de breanch  
+
+git reset - reseta antes de  comitar os arquivos do stage
+
+
+
+
+
+
+
+
+
+
